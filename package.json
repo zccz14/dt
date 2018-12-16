@@ -1,0 +1,9 @@
+{
+  "name": "dt",
+  "version": "0.1.0",
+  "description": "timespan-oriented time management tool",
+  "main": "dist/index.js",
+  "repository": "https://github.com/zccz14/dt.git",
+  "author": "zccz14 <zccz14@outlook.com>",
+  "license": "MIT"
+}
