@@ -9,6 +9,9 @@
   "bin": {
     "dt": "./dist/cli.js"
   },
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "commander": "^2.19.0",
     "date-fns": "^1.30.1",
